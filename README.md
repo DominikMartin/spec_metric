@@ -23,7 +23,7 @@ pip install git+https://github.com/DominikMartin/spec_metric.git
 0.5142...
 ```
 
-#### Citation
+### Citation
 If you use SPEC in a scientific publication, we would appreciate citations:
 
 Martin, D.; Spitzer, P.; Kühl, N. (2020). A New Metric for Lumpy and Intermittent Demand Forecasts: Stock-keeping-oriented Prediction Error Costs. In Proceedings of the 53rd Annual Hawaii International Conference on System Sciences (HICSS-53), Grand Wailea, Maui, HI, January 7-10, 2020.
